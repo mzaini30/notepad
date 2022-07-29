@@ -1,0 +1,2 @@
+# notepad
+Firefox Addons Notepad
