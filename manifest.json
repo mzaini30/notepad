@@ -1,0 +1,13 @@
+{
+  "name": "Notepad",
+  "description": "Untuk catatan",
+  "icons": {
+    "128": "icon.png"
+  },
+  "version": "0.0.1",
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "manifest_version": 2,
+  "browser_action": {}
+}
